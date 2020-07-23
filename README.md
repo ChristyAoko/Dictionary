@@ -1,2 +1,2 @@
 # Dictionary
-Python Interactive Dictionary
+Python Interactive CLI Dictionary
